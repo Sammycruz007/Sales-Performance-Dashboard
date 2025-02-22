@@ -48,19 +48,31 @@ Interactive dashboards were created in Power BI to visualize the findings. The d
 - Trend analysis and comparative insights.
 - Intuitive visualizations that enable stakeholders to drill down into specific areas of interest.
 
-## Results and Insights
+## Dasboard
+
+Power BI Interactive Dashboard: <a href = 'https://github.com/Sammycruz007/Sales-Performance-Dashboard/blob/main/CRM%20Project.pbix'>Interactive_Dashboard</a>
+### Overview
+![DB1](https://github.com/user-attachments/assets/e642c06c-0482-492e-8361-1879f19092ab)
+
+### Indepth View into Reveneue Generation
+![DB@](https://github.com/user-attachments/assets/3cedd30e-e4f1-4296-906c-8a225b4e3a74)
+
+### Company and Location Analysis
+![DB 3](https://github.com/user-attachments/assets/a3f5a52c-02c1-4bf1-af05-1abea4380022)
+
+### Results and Insights
 The analysis yielded several critical insights:
 
-Top Revenue Generators:
+### Top Revenue Generators:
 Specific companies, customers, sales agents, and sales managers were identified as the primary drivers of revenue. These entities outperform others and can serve as benchmarks for strategic planning.
 
-Geographical Performance:
+### Geographical Performance:
 Certain countries and regions exhibit higher revenue performance, suggesting potential areas for targeted investment and market expansion.
 
-Product Performance:
+### Product Performance:
 A select group of products has been recognized as the top contributors to overall revenue. Focusing on these products could lead to improved marketing and inventory management strategies.
 
-Actionable Insights:
+### Actionable Insights:
 The interactive dashboards enable a deep-dive analysis into the revenue data, providing stakeholders with the information needed to make data-driven decisions regarding sales strategies and operational improvements.
 
 ## Conclusion
